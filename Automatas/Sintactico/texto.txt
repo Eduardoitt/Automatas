@@ -1,0 +1,133 @@
+
+
+Include.Link(stdio.h)
+Include.Link(stdlib.h)
+
+ContentCode 
+{
+     < fuera del main >
+     var (a,b) int ;
+     var (c,d) int ;
+
+     mov (a,3), (b,7);
+
+     funtion hola ()
+    { 
+       a inc;
+       h dec;
+  
+       print(2); retorna 2; 
+     
+    }
+
+    public void proc ()  
+    {
+        print(g);
+
+        while( a<=10) 
+      {
+
+     a inc;
+     mov fg , a mul b add 5; 
+     print(fg);
+
+      }
+   }
+
+  public class cl 
+   { print(o);
+
+   }
+
+   int FirstClass ()
+ {
+    < Dentro del main >
+    
+    mov cola, Queue (3) int;
+    cola.Enqueue.(4);
+    cola.Dequeue.(3);
+
+     gh.();
+     gh.(ft); 
+     gh.( int j);  
+
+     var (a,b) int ;
+     mov (a,3), (b,7);
+     print(a);
+     print(b);
+     mov fg , a mul b add 5; 
+     print(fg);
+
+     a inc;
+     h dec;
+	
+     for(mov t,0; t inc ; t < 5;) 
+
+     for (mov g, 10; g dec ; g == 0 ;) 
+     { 
+       mov (a,3), (b,7);
+       print(a);
+       print(b);
+     
+     }
+     if (a == b and a == c)
+      begin 
+       
+          print(a);
+           print(b);
+
+       end
+     else
+
+
+
+     begin 
+         mov (a,3), (b,7);
+       print(a);
+       print(b);
+
+     end
+   while( a<=10) 
+   {
+
+     a inc;
+     mov fg , a mul b add 5; 
+     print(fg);
+
+   }
+  
+
+   mov teext, Open.(archivo.txt, rt);
+
+    print(ingresar);
+    mov leido, ReadLine();
+    WriteLine(leido);
+
+   try: 
+    print(nombre); 
+    mov nombre, ReadLine();
+    print(nombre);
+    
+   catch 
+     print(Incorrecto);
+   end
+
+   switch (b) 
+   begin
+    case 1: print(g); end
+    case 2: print(h); end
+    end
+   
+   mov  miarray.(2) , [a,b] int; 
+
+  mov mimatriz [,] , [2,2]  int ; 
+   datoconvertir.Parse.( int );
+   mov convertido, datoconvertir;
+
+    mov con, SqlConnection.(BD);
+    con.Open();
+    con.Close();
+
+ }
+
+}
